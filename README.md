@@ -1,5 +1,5 @@
-# Resume_Freelance
-Freelance Resume Scoring Project
+# Resume_Scoring
+Resume Scoring Project
 
 First run 
 
