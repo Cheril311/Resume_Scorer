@@ -1,5 +1,6 @@
 # Resume_Scoring
 Resume Scoring Project
+This is a project to upload resume/CVs and rank them according to job description. Uses sentence-transformers to understand text, a finetuned sentence transformer model to extract information and mathematical rules to rank resumes
 
 First run 
 
