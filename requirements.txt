@@ -4,7 +4,7 @@ PyMuPDF==1.21.1
 transformers==4.26.0
 sentence-transformers==2.2.2
 torch==1.13.1
-torchvision==0.14.
+torchvision==0.15.1
 streamlit==1.20.0
 sentencepiece==0.1.97
 plotly==5.13.0
