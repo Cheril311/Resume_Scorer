@@ -7,7 +7,6 @@ import plotly.graph_objects as go
 import matplotlib.pyplot as plt
 import matplotlib.colors as mcolors
 from sentence_transformers import SentenceTransformer, util
-from wordcloud import WordCloud
 import torch
 from transformers import AutoTokenizer, AutoModelForSequenceClassification,AutoConfig
 import re
