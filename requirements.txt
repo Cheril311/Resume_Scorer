@@ -6,9 +6,8 @@ sentence-transformers==2.2.2
 torch
 torchvision
 streamlit==1.20.0
-sentencepiece==0.1.97
+sentencepiece
 plotly==5.13.0
-wordcloud==1.8.2.2
 matplotlib==3.6.3
 pandas==1.5.2
 numpy==1.23.5
