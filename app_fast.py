@@ -308,15 +308,15 @@ if option_2 == 'YES':
 #     st.write(fig)
     st.write(value)
 
-    st.markdown("#### The Word Cloud For the Resume")
-    wordcloud = WordCloud(width=800, height=800,
-                          background_color='white',
-                          colormap='viridis', collocations=False,
-                          min_font_size=10).generate(value)
-    plt.figure(figsize=(7, 7), facecolor=None)
-    plt.imshow(wordcloud)
-    plt.axis("off")
-    plt.tight_layout(pad=0)
-    st.pyplot(plt)
+    # st.markdown("#### The Word Cloud For the Resume")
+    # wordcloud = WordCloud(width=800, height=800,
+    #                       background_color='white',
+    #                       colormap='viridis', collocations=False,
+    #                       min_font_size=10).generate(value)
+    # plt.figure(figsize=(7, 7), facecolor=None)
+    # plt.imshow(wordcloud)
+    # plt.axis("off")
+    # plt.tight_layout(pad=0)
+    # st.pyplot(plt)
     # st.text(df_sorted.iloc[indx-1, 1])
     st.markdown("---")
